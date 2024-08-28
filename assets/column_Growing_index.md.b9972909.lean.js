@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as r,N as t}from"./chunks/framework.28749716.js";const g=JSON.parse('{"title":"叮~","description":"","frontmatter":{},"headers":[],"relativePath":"column/Growing/index.md"}'),i={name:"column/Growing/index.md"},l=t("",73),o=[l];function n(s,h,c,p,d,b){return e(),r("div",null,o)}const m=a(i,[["render",n]]);export{g as __pageData,m as default};
