@@ -27,5 +27,15 @@ export const sidebar: DefaultTheme.Sidebar = {
         }
       ]
     }
+  ],
+  '/man':[
+    {
+      text: '前端',
+      items: [
+        {
+          text: 'Vue',
+        }
   ]
+  }
+]
 };
