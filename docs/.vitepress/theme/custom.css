@@ -25,3 +25,14 @@
   --vp-c-brand-dark: var(--vp-c-purple-dark);
   --vp-c-brand-darker: var(--vp-c-purple-darker);
 }
+/* 添加自定义css */
+.image-src{
+    border-radius: 50%; 
+    width: 30vmin; 
+    /* height: 30vmin; 
+    object-fit: cover; 
+    object-position: center; */
+}
+.logo{
+  border-radius: 50%; 
+}
